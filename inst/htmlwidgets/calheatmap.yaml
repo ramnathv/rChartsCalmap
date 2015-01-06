@@ -1,0 +1,10 @@
+dependencies:
+- name: d3
+  version: 3.5.3
+  src: htmlwidgets/lib/d3
+  script: d3.min.js
+- name: cal-heatmap
+  version: 3.5.0
+  src: htmlwidgets/lib/cal-heatmap
+  script: cal-heatmap.min.js
+  style: cal-heatmap.css

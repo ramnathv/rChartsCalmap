@@ -1,0 +1,10 @@
+Package: rChartsCalmap
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.0.1
+Date: 2015-01-06
+Author: Ramnath Vaidyanathan
+Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: MIT + file LICENSE
+LazyData: TRUE
