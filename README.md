@@ -1,6 +1,6 @@
 ## rChartsCalmap
 
-This is an [htmlwidgets](http://htmlwidgets.org) binding for the excellent [Cal-Heatmap](http://kamisama.github.io/cal-heatmap/) plugin, developed by [Wan Qi Chen](https://github.com/kamisama). This binding was motivated by a tweet by [Alex Bresler](https://twitter.com/abresler/status/412314310782644224/photo/1) and uses data provided by him on points scored by Paul George.
+This is an [htmlwidgets](http://htmlwidgets.org) binding for the excellent [Cal-Heatmap](http://cal-heatmap.com/) plugin, developed by [Wan Qi Chen](https://github.com/wa0x6e). This binding was motivated by a tweet by [Alex Bresler](https://twitter.com/abresler/status/412314310782644224/photo/1) and uses data provided by him on points scored by Paul George.
 
 You can install it from `github` using `devtools`.
 
